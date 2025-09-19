@@ -6,6 +6,19 @@
 
 .container {
   border: 6px solid black;
+  display: grid;
+  /* grid-template-columns: 200px 200px 200px; */
+  /* grid-template-columns: repeat(6, 200px); */
+  /* grid-template-columns: 1fr 2fr 1fr; */
+  /* grid-template-columns: repeat(3, minmax(200px, 1fr)); */
+  height: 400px;
+
+  /* grid-template-rows: repeat(3,1fr); */
+  grid-template: repeat(3, 1fr) / repeat(3, minmax(200px, 1fr));
+  /* column-gap: 20px;
+  row-gap: 30px; */
+
+  gap: 40px 20px;
 }
 
 .grid-item {
