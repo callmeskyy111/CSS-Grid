@@ -474,3 +474,27 @@ Dynamic grids with custom properties:
 * Keep an eye on **subgrid** (game changer!).
 
 ---
+
+![WhatsApp Image 2025-09-19 at 20 02 59_579748e7](https://github.com/user-attachments/assets/867c24ef-e783-4eb5-8641-e042e54bac01)
+![WhatsApp Image 2025-09-19 at 20 02 59_44fff216](https://github.com/user-attachments/assets/b48bcd18-a06c-4bcd-b450-a124009eac1a)
+![WhatsApp Image 2025-09-19 at 20 03 00_8f86146c](https://github.com/user-attachments/assets/24644b57-b57a-40bd-8c1d-666d71b5e223)
+![WhatsApp Image 2025-09-19 at 20 03 00_c58a74f7](https://github.com/user-attachments/assets/521560de-a01a-4c22-a855-189f0386c518)
+![WhatsApp Image 2025-09-19 at 20 03 00_e72825c5](https://github.com/user-attachments/assets/a6b061c6-5ec1-4a5c-926d-bfb4999ec399)
+![WhatsApp Image 2025-09-19 at 20 03 01_d747b5a3](https://github.com/user-attachments/assets/7b7fe243-828c-45fa-8905-8463b26f68fa)
+![WhatsApp Image 2025-09-19 at 20 03 01_126af02e](https://github.com/user-attachments/assets/1e46a855-092c-4fc6-9a26-e3cd227a76f3)
+![WhatsApp Image 2025-09-19 at 20 03 01_b5c71ea6](https://github.com/user-attachments/assets/a0b11bae-19e4-458c-85a8-965c8c2b2ae5)
+![WhatsApp Image 2025-09-19 at 20 03 01_9daf23c7](https://github.com/user-attachments/assets/5d491efa-50cc-4a74-9db9-8b16203e9592)
+![WhatsApp Image 2025-09-19 at 20 03 02_7cbb7743](https://github.com/user-attachments/assets/272a0ac8-ad1d-4e3a-ba4d-fa7a897c6ad4)
+![WhatsApp Image 2025-09-19 at 20 03 02_68330d69](https://github.com/user-attachments/assets/5fd54993-e975-4835-862a-f6c49103fc9d)
+
+
+
+
+
+
+
+
+
+
+
+
