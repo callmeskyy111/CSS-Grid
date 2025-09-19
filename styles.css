@@ -54,6 +54,9 @@
 }
 .item-2 {
   background-color: #bf7535;
+  /* justify-self:center;
+  align-self: center; */
+  /* place-self: center center; */
 }
 .item-3 {
   background-color: #3735bf;
